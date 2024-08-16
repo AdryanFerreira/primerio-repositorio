@@ -1,2 +1,2 @@
 # primerio-repositorio
-Aula de Sexta-Feira / web-basico
+Aula de Sexta-Feira / Web-Básico
